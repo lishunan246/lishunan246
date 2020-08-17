@@ -1,4 +1,4 @@
-🔨 Software Develop Engineer
+🔨 Software Development Engineer
 
 🔣 Preferred programming languages: 
 
