@@ -2,9 +2,10 @@
 
 🔣 Preferred programming languages: 
 
-- Python
 - Go
 - C++
+- Python
+
 
 💻 Preferred operating systems: 
 - Ubuntu
